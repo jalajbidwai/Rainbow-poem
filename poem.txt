@@ -6,6 +6,7 @@ orange
 blue
 red
 green
+indigo
 yellow
 brown
 black
